@@ -15,7 +15,7 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 
-<br/>
+<br>
 <br>
   <summary>:zap: Github Stats</summary>
   <br>
@@ -24,4 +24,6 @@
   <br>
   <img align="left" alt="JeanOUINA's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanOUINA&layout=compact&theme=dark&count_private=true"/>
   <br>
-  <img align="left" alt="JeanOUINA's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=aThomized"/> < Wakatime is trash doesnt work
+  <img align="left" alt="JeanOUINA's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=aThomized"/> 
+  <br>
+  <p>^ Wakatime is trash doesnt work<p/>
