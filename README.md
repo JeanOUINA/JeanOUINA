@@ -2,7 +2,7 @@
 
 ### Contact me ~
 
-![https://discord.c99.nl/widget/theme-4/696481194443014174.png](https://discord.com/users/696481194443014174)
+[![](https://discord.c99.nl/widget/theme-4/696481194443014174.png)](https://discord.com/users/696481194443014174)
 
 <br />
 
