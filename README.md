@@ -2,7 +2,7 @@
 
 ### Contact me ~
 
-[<img align="left" alt="Not Thomiz#0001 | Discord" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://lightcord.org/discord)
+[https://discord.c99.nl/widget/theme-4/696481194443014174.png](https://discord.com/users/696481194443014174)
 
 <br />
 
