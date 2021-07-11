@@ -4,8 +4,6 @@
 
 [![](https://discord.c99.nl/widget/theme-4/696481194443014174.png)](https://discord.com/users/696481194443014174)
 
-<br />
-
 ### What i work with ~
 <img align="left" alt="TypeScript" width="30px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
