@@ -22,4 +22,5 @@
   <br>
   <img align="left" alt="JeanOUINA's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanOUINA&layout=compact&theme=dark&count_private=true"/>
   <br>
+  <br>
   <img align="left" alt="JeanOUINA's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=aThomized"/> 
