@@ -21,3 +21,6 @@
 ![JeanOUINA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeanouina&api_domain=wakapi.thomiz.dev&theme=catppuccin_mocha&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 ![JeanOUINA's Github Stats](https://github-readme-stats.vercel.app/api?username=JeanOUINA&show_icons=true&theme=catppuccin_mocha&count_private=true)
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/JeanOUINA/JeanOUINA/assets/50077294/2d33805d-fe7d-4e44-bac9-2df919547f97');]{x0000}$}
